@@ -107,7 +107,7 @@ npm run dev
 <div align="center">
   🤩
   <h3>Nehal</h3>
-  <a href="https://github.com/BinaryBlast1">
+  <a href="https://github.com/ByteBlast1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Discord-byte__blast1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
